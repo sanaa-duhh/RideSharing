@@ -63,11 +63,11 @@ RideSharing/
    
    Create `src/main/resources/application.properties`:
    ```properties
-   spring.application.name=RideShare
-   server.port=8081
-   spring.data.mongodb.uri=mongodb+srv://username:password@cluster.mongodb.net/rideshare?retryWrites=true&w=majority
-   jwt.secret=YourSecretKeyHereMustBeAtLeast256BitsLong
-   jwt.expiration-ms=86400000
+   spring.application.name=
+   server.port=
+   spring.data.mongodb.uri=
+   jwt.secret=
+   jwt.expiration-ms=
    ```
 
    > 💡 **Note:** Replace the MongoDB URI with your actual credentials
