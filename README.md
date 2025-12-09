@@ -458,7 +458,7 @@ Contributions are welcome! Please follow these steps:
 ## 👤 Author
 
 **Sanaa**
-- GitHub: [@sanaa-dubh](https://github.com/sanaa-duhh)
+- GitHub: [@sanaa-duhh](https://github.com/sanaa-duhh)
 - Project: [RideSharing](https://github.com/sanaa-duhh/RideSharing)
 
 ---
